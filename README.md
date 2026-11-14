@@ -24,11 +24,11 @@ Headphones are recommended, because all of the music is generated live from raga
 ## What's inside
 
 - **4 regions, 4 guardians**: Kamala Vana (lotus grove), Swarna Ranabhumi (golden battlefield), Patala (serpent depths), Garbha (heart of the Wheel), guarded by Jayadratha, Karna, Ashwatthama and Drona. Each guardian has phases and a signature mechanic: Shiva's Boon, the Kavacha, the Narayanastra (stand still to survive) and the turning Wheel.
-- **6 gods, 48 boons**: Indra, Agni, Vayu, Varuna, Surya and Durga, with rarities, Amrita upgrades and 7 Duo boons.
+- **6 gods, 49 boons**: Indra, Agni, Vayu, Varuna, Surya and Durga each offer 7 boons with rarities and Amrita upgrades, plus 7 Duo boons that combine two gods.
 - **4 Divine Arms**: Khadga, Ratha Chakra, Dhanush and Gada, each with 5 Chisel of Vishwakarma upgrades.
 - **12 kinds of foe**, plus elites with armour.
 - **The Court of Yama** hub: Yama, Chitragupta, Nachiketa, Savitri, Chandra and Dhumra the buffalo. You can talk, offer garlands, unlock keepsakes, annotate the Ledger of Karma for permanent upgrades, and change weapons.
-- **A branching story**: more than 100 dialogue scenes, visions of Uttara at sacred pools, three distinct victory epilogues, a true ending and credits.
+- **A branching story**: 86 dialogue scenes (over 300 lines) that unlock as you progress, five visions of Uttara at sacred pools, three distinct victory epilogues, a true ending and credits.
 - Everything is procedural: the art is painted in Canvas 2D code and the audio is synthesized in Web Audio (tanpura drone, sitar, santoor, bansuri and tabla).
 
 Progress is saved automatically in the browser's local storage.
